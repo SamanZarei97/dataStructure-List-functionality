@@ -1,5 +1,4 @@
 /**
- * Name: Saman Zarei
  * The purpose of this class is implementing MyList in Node form
  * To test later and make sure that we have implemented correctly.
  */
