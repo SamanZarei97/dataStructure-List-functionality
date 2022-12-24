@@ -1,10 +1,9 @@
 /**
- * Name: Saman Zarei
+ * Let's start
  */
 
 /**
  * This class transforms all the String variable into uppercase
- * @author saman
  *
  */
 class UpperCaseTransformer implements MyTransformer<String> {
