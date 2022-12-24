@@ -1,5 +1,5 @@
 /**
- * Name: Saman Zarei
+ * Let's start
  */
 import static org.junit.Assert.*;
 
@@ -14,7 +14,6 @@ import org.junit.runners.Parameterized;
 /**
  * The purpose of this class is to write some test cases to make sure we have 
  * implemented all the classes correctly.
- * @author saman
  *
  */
 @RunWith(Parameterized.class)
