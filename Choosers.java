@@ -4,7 +4,7 @@
 
 /**
  * This class chooses all the String variables that their length is more than 5
- * @author saman
+ * 
  *
  */
 class LongWordChooser implements MyChooser<String> {
